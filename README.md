@@ -17,18 +17,20 @@ the main goal of this project is to help designers create games which are *intel
 Games engage the player's brain by presenting the player with strategically interesting choices:
 situations in which the player is aware of more than one way to achieve his immediate goal, but have the freedom to decide which choice provides best cost-benefit tradeoff.  For example, the player may have three
 strategies for defeating a difficult enemy: 1) she can avoid the enemy for now, until she is strong enough to defeat it later; 2) she can spend some money to buy a better weapon,
-or 3) she can uses one of her items, a "bomb", to defeat the enemy, which is the fastest way but which comes at the cost of the item.
+or 3) she can use a "bomb" to defeat the enemy, which is the fastest way but which comes at the cost of the item.
 
 Yet, interesting choices cannot be created simply by designing a multiplicity of options.
 A common problem in big budget and homebrewn games alike is poor "balance" throughtout the game:
 although, in principle, there are many routes to the same goal, one route in particular
-is obviously much better than all other choices.  But it is extremely difficult for a game designer
-to assess balance without personally testing the game, or getting feedback from playtesters.
+is "obviously" much better than all other choices; and by "obvious", we mean obvious to the player
+and not the designer!  After all, it is extremely difficult for the designer to assess balance
+without extensively testing the game personally, or getting feedback from dedicated playtesters.
 
 We propose that tools for computer "simulations" of playthroughs of the game can help designers get a feel
-for the dynamics of their game.  The main challenge is modeling a player's behavior via
-a computer algorithm.  The main assumption we need is that the player will attempt to play "optimally:"
-for instance, attempting to complete the game in the shortest amount of time.
+for the dynamics of their game.  In no way do we suggest that such simulations can replace personal testing
+or playtesters, but they could be a convenient tool to quickly see the effect of a change to the game,
+or help discover unexpected "degeneracies."
+The main tecnical challenge for this approach is modeling a player's behavior via a computer algorithm.  The main assumption we need is that the player attempts to play "optimally:" for instance, attempting to complete the game in the shortest amount of time.
 
 To carry out the simulations, we require the game to be described formally as a system
 consisting of 1) player actions, 2) hidden game variables and 3) "visible" game variables,
