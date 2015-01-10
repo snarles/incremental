@@ -12,17 +12,14 @@ resources, choosing the right attacks to use in combats, etc.  The game will als
 players may automatically accumulate resources over time, and their abilities may produce effects with a timed
 duration.
 
-The success of any game depends on many factors: an engaging story, immersive graphics and audio,
-or gameplay that creates emotional suspense.  But the main goal of this project is to address
-the prescence of strategically interesting choices in the game.  These kinds of choices occur when
-the player is aware of more than one way to achieve his immediate goal: now they can try to decide
-which choice will provide the most additional benefits to them.  A typical example might be when a player
-can choose a strategy for defeating a difficult enemy: 1) she can choose to strengthen his character
-by finding a good lcoation in the game for training; 2) she can spend some money to buy a better weapon,
-or 3) she can consume one of her items, a "bomb", to defeat the enemy: this way is the fastest,
-but then the player will no longer be have the bomb at her disposal in a later battle.
+While acknowledging that a game's success depends foremost on being able to engage the player's emotions, whether through a well-written story, immersive graphics and audio, or gameplay that creates emotional suspense,
+the main goal of this project is to help designers create games which are *intellectually* engaging.
+Games engage the player's brain by presenting the player with strategically interesting choices:
+situations in which the player is aware of more than one way to achieve his immediate goal, but have the freedome to decide which choice provides best cost-benefit tradeoff.  For example, the player may have three
+strategies for defeating a difficult enemy: 1) she can avoid the enemy for now, until she is strong enough to defeat it later; 2) she can spend some money to buy a better weapon,
+or 3) she can uses one of her items, a "bomb", to defeat the enemy, which is the fastest way but which comes at the cost of the item.
 
-A mere multiplicity of options does not guarantee that the choices will be interesting.
+Yet, interesting choices cannot be created simply by designing a multiplicity of options.
 A common problem in big budget and homebrewn games alike is poor "balance" throughtout the game:
 although, in principle, there are many routes to the same goal, one route in particular
 is obviously much better than all other choices.  But it is extremely difficult for a game designer
