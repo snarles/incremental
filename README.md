@@ -7,8 +7,8 @@ The goal of this project is to provide some tools for designing single-player ga
 automatically tested by artificially intelligent players.
 
 A typical game might be the following: a player explores a world by clicking on various locations in the game;
-interacts with other characters via menu-based choices, and completes their goals by means of acquiring various
-resources, choosing the right attacks to use in combats, etc.  The game will also including a timing element:
+interacts with other characters via menu-based choices, and completes their goals by means of acquiring an exploting various
+resources.  The game also includes a timing element:
 players may automatically accumulate resources over time, and their abilities may produce effects with a timed
 duration.
 
