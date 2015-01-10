@@ -15,7 +15,7 @@ duration.
 While acknowledging that a game's success depends foremost on being able to engage the player's emotions, though storytelling, visuals, or exciting gameplay,
 the main goal of this project is to help designers create games which are *intellectually* engaging.
 Games engage the player's brain by presenting the player with strategically interesting choices:
-situations in which the player is aware of more than one way to achieve his immediate goal, but have the freedome to decide which choice provides best cost-benefit tradeoff.  For example, the player may have three
+situations in which the player is aware of more than one way to achieve his immediate goal, but have the freedom to decide which choice provides best cost-benefit tradeoff.  For example, the player may have three
 strategies for defeating a difficult enemy: 1) she can avoid the enemy for now, until she is strong enough to defeat it later; 2) she can spend some money to buy a better weapon,
 or 3) she can uses one of her items, a "bomb", to defeat the enemy, which is the fastest way but which comes at the cost of the item.
 
