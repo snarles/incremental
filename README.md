@@ -12,7 +12,7 @@ resources.  The game also includes a timing element:
 players may automatically accumulate resources over time, and their abilities may produce effects with a timed
 duration.
 
-While acknowledging that a game's success depends foremost on being able to engage the player's emotions, whether through a well-written story, immersive graphics and audio, or gameplay that creates emotional suspense,
+While acknowledging that a game's success depends foremost on being able to engage the player's emotions, though storytelling, visuals, or exciting gameplay,
 the main goal of this project is to help designers create games which are *intellectually* engaging.
 Games engage the player's brain by presenting the player with strategically interesting choices:
 situations in which the player is aware of more than one way to achieve his immediate goal, but have the freedome to decide which choice provides best cost-benefit tradeoff.  For example, the player may have three
