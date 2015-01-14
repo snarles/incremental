@@ -1,4 +1,4 @@
-# incremental
+# Prestige
 Python tools for automatically testing and generating javascript games
 
 *Introduction*
